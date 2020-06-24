@@ -12,9 +12,15 @@ kURL relies on `kubeadm` to bring up the Kubernetes control plane, but there are
 The purpose of this installer is to automate those tasks so that any user can deploy a Kubernetes cluster with a single script.
 
 ## Getting Started
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Flaverya%2FkURL.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Flaverya%2FkURL?ref=badge_shield)
+
 For more information please see [kurl.sh/docs/](https://kurl.sh/docs/)
 
 # Community
 
 For questions about using kURL, there's a [Replicated Community](https://help.replicated.com/community) forum, and a [#kurl channel in Kubernetes Slack](https://kubernetes.slack.com/channels/kurl).
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Flaverya%2FkURL.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Flaverya%2FkURL?ref=badge_large)
